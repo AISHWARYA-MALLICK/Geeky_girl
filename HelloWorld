@@ -1,0 +1,16 @@
+// I am new to GitHub and this is my first program, so I am starting with HelloWorld program.
+class HelloWorld
+{
+void display()
+{
+System.out.println("Hello World! This is my first program in GitHub.");
+}
+}
+class Main_Class
+{
+public static void main(String args[])
+{
+HelloWorld obj=new HelloWorld();
+obj.display();
+}
+}
